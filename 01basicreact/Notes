@@ -1,0 +1,13 @@
+if react gives problem while creating project - 
+I solved this using the following command.
+
+npm uninstall -g create-react-app
+
+then
+
+npm install -g create-react-app
+
+to run project - npm run start
+
+to build - npm run build
+
